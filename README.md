@@ -1,4 +1,4 @@
-````md
+
 # Shadcn-UI Template Usage Instructions
 
 ## Technology Stack
@@ -55,7 +55,7 @@ All `shadcn/ui` components are pre-downloaded and available at `@/components/ui`
 ### Install Dependencies
 ```bash
 pnpm i
-````
+```
 
 ### Add Dependencies
 
