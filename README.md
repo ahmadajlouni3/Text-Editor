@@ -1,5 +1,5 @@
 
-# Text-Editor-UI Template Usage Instructions
+# Shadcn-UI Template Usage Instructions
 
 ## Technology Stack
 This project is built with:
@@ -10,7 +10,7 @@ This project is built with:
 - **shadcn-ui**  
 - **Tailwind CSS**
 
-All `Text-Editor/ui` components have been downloaded under `@/components/ui`.
+All `shadcn/ui` components have been downloaded under `@/components/ui`.
 
 ---
 
@@ -28,7 +28,7 @@ All `Text-Editor/ui` components have been downloaded under `@/components/ui`.
 ---
 
 ## Components
-All `Text-Editor/ui` components are pre-downloaded and available at `@/components/ui`.
+All `shadcn/ui` components are pre-downloaded and available at `@/components/ui`.
 
 ---
 
